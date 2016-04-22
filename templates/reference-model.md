@@ -48,7 +48,12 @@ An architecture reference model is an abstract framework or domain-specific onto
 
 ## Scope
 
-<_Describe the applicability of the reference model (for example Foundation / Common Systems / Industry / Org-specific)._>
+- [ ] Foundation
+- [ ] Common Systems
+- [ ] Industry
+- [ ] Org-specific
+
+<_Describe the applicability of the reference model._>
 
 
 ## Taxonomy
