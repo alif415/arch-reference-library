@@ -12,9 +12,10 @@ This catalogue lists open source applications and libraries created by the UK pu
 
 ## Revision History
 
-| Version       | Issued     | Comments
-| -             | -          | -
-| Initial Draft | 06-08-2015 | Created and initial entries populated.
+| Version | Issued     | Comments
+| -       | -          | -
+| 0.1     | 06-08-2015 | Created and initial entries populated.
+| 0.2     | 22-04-2016 | Added an entry for the Ginsberg project.
 
 
 ## Catalogue of Applications & Libraries
@@ -32,3 +33,4 @@ This catalogue lists open source applications and libraries created by the UK pu
 | [datasets-transport](https://github.com/edinburghcouncil/datasets-transport)         | Edinburgh City Council | Library     |                                   | n/a        | Datasets relating to travel and transport.
 | [datasets-health](https://github.com/edinburghcouncil/datasets-health)               | Edinburgh City Council | Library     |                                   | n/a        | Council datasets concerning social care, health and wellbeing.
 | [natural-neighbourhoods](https://github.com/edinburghcouncil/natural-neighbourhoods) | Edinburgh City Council | Library     | OGL v2                            | n/a        | Natural neighbourhoods in Edinburgh – where people believe they live rather than the wards and catchments that may be the official mapping lines of the city.
+| [Ginsberg Project](https://github.com/ProjectGinsberg)                               | Scottish Government, Directorate of Health & Social Care Integration | Application | MIT | Java, Swift, Objective C | Tools to track and understand your emotional and physical wellbeing.
