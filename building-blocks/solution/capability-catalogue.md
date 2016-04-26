@@ -100,6 +100,18 @@ More details:
 
 The Scottish Government provides a [colocation register](http://www.gov.scot/Topics/Economy/digital/digitalservices/datahostingdatacentres/pscoloregister) as a part of its activities to support Scottish public sector organisations in realising the [Data Hosting and Data Centre Strategy](http://www.gov.scot/Topics/Economy/digital/digitalservices/datahostingdatacentres). The register lists public sector organisations who offer colocation services for data hosting.
 
+### Device Lab
+
+| -                 | -
+| **Service Class** | Technology
+| **Scope**         | Scottish public sector
+
+The Scottish Government's Digital Public Services and Business Transformation Division (DPS&BT) maintains and operates a device lab for testing web sites, web applications and mobile applications. The lab contains over 40 physical devices including smartphones, tablets, consoles and e-readers and is available for use by other Scottish public sector organisations and programmes. The lab is based in The Scottish Government's Victoria Quay office in Edinburgh.
+
+The device lab has been created in order to support Scottish public sector organisations in delivering against the [High Level Operating Framework's](http://www.gov.scot/Topics/Economy/digital/digitalservices/HLOF) Multi-Channel principle (OFP-CC2).
+
+Testing should be agreed and scheduled with the DPS&BT division. This can be done by emailing the [Device Lab Enquiries](mailto:devicelab@gov.scot) mailbox. The primary contact will be expected to supply details in advance for all persons attending for the duration of testing. If the persons conducting the testing do not have Scottish Government security passes, appropriate arrangements can be made.
+
 ### The One Scotland Gazetteer
 
 | -                 | -
