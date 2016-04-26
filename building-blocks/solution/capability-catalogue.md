@@ -45,6 +45,53 @@ More information:
 
 - <https://www.scottishwan.com>
 
+### mygov.scot
+
+| -                 | -
+| **Service Class** | Application
+| **Scope**         | Scottish public sector
+
+The mygov.scot service provides citizens and businesses with quick and simple access to Scottish Government services. mygov.scot currently provides access to information about services, and is phasing in support for online tools and transactions.
+
+The service provides significant benefits for citizens and businesses:
+
+- All government services can be found from one place;
+- Users don’t have to know which organisation is responsible for service;
+- Better service information that is task-orientated and presented in plain English;
+- Works consistently across phones, tablets or computers.
+
+The benefits for government are:
+
+- Reduces costs by removing separate websites and publishing systems;
+- Easy to pick up and use immediately without specialist training;
+- Templated formats and editorial controls support consistency and quality;
+- Designed to improve iteratively and often, keeping pace with change.
+
+mygov.scot is a platform that allows Scottish public sector organisations to publish information about their services. It is a modern solution that has been designed specifically for the content management and publishing needs of the Scottish public sector. The service is actively supported and continuously improved based on user's needs.
+
+The mygov.scot Content Design team provides central editorial governance and support for publishers. They work in partnership with Scottish public sector organisations to ensure that published content meets a real user need and follows the mygov.scot style guide. However, the ownership of the information still remains with the organisation, as the subject matter expert.
+
+Public sector organisations can access the mygov.scot service by emailing the [content updates](mailto:contentupdates@gov.scot) mailbox.
+
+### myaccount
+
+| -                 | -
+| **Service Class** | Application
+| **Scope**         | Scottish public sector
+
+[Scotland’s Digital Future: Delivery of Public Services](http://www.gov.scot/Publications/2012/09/6272) sets out a need for a common approach to sign-in. The Scottish Government approach has been developed in partnership with the Scottish public sector. myaccount is the agreed approach. myaccount gives people across Scotland a secure and easy way to access online public services.
+
+- When people undertake a transaction online they want to be confident it is secure and their identities are protected while organisations need to know who they are transacting with. myaccount provides this.
+- myaccount is live and available for immediate use by local authorities and health boards.
+- Having a single solution avoids the need for each provider to invest, develop or buy their own sign-in solution.
+- In addition to sign-in, myaccount further offers public sector organisations data, verification and notification services. These are data management services - providing tools to improve the quality and accuracy of their own local data, a verification service – a set of tools and business processes which validate and verify individuals and a notification service - to advise of change of circumstances for registered users.
+- myaccount is centrally funded through support Scottish Government gives to the Improvement Service in relation to delivery of public services.
+
+More details:
+
+- [myaccount Service Provider Portal](https://spportal.mycas.org.uk)
+- [myaccount details on gov.scot](http://www.gov.scot/Topics/Economy/digital/digitalservices/Sign-intoOnlineServices)
+
 ### Public Sector Colocation Register
 
 | -                 | -
@@ -52,6 +99,28 @@ More information:
 | **Scope**         | Scottish public sector
 
 The Scottish Government provides a [colocation register](http://www.gov.scot/Topics/Economy/digital/digitalservices/datahostingdatacentres/pscoloregister) as a part of its activities to support Scottish public sector organisations in realising the [Data Hosting and Data Centre Strategy](http://www.gov.scot/Topics/Economy/digital/digitalservices/datahostingdatacentres). The register lists public sector organisations who offer colocation services for data hosting.
+
+### The One Scotland Gazetteer
+
+| -                 | -
+| **Service Class** | Data
+| **Scope**         | Scottish public sector
+
+The One Scotland Gazetteer is an address database made up of all 32 individual local authority gazetteers. Key features include:
+
+- Spatially referenced address records;
+- Property lifecycle details;
+- Full compliance to the Scottish Gazetteer Conventions.
+
+Addresses are created in accordance with the national standard for addressing, BS7666:2006 and the Scottish Gazetteer Conventions. All 32 Scottish local authorities are responsible for their local Street Naming and Numbering function, allowing them to add, edit and remove records when appropriate. Further address information is gathered through planning applications and building warrant completions, showing when new properties are being created and old ones are being demolished. This brings a high level of currency and accuracy to the One Scotland Gazetteer.
+
+The One Scotland Gazetteer may be accessed in two different formats, either through a web service or as a CSV export.  The most suitable option will depend on which best suits your requirements.
+
+One Scotland Gazetteer data is available to any organisation that is a member of the One Scotland Mapping Agreement.
+
+More information:
+
+- <http://www.onescotlandgazetteer.org.uk/>
 
 ### PSN
 
@@ -74,6 +143,31 @@ More information:
 - <https://governmenttechnology.blog.gov.uk/2015/02/24/changing-psn-compliance-your-questions-answered/>
 - <https://governmenttechnology.blog.gov.uk/2015/01/16/making-the-psn-better/>
 - <https://governmenttechnology.blog.gov.uk/2014/12/05/psn-compliance-all-change/>
+
+### UK Verify
+
+| -                 | -
+| **Service Class** | Application
+| **Scope**         | UK public sector
+
+UK Verify is the UK Government's solution that allows citizens to prove who they are online. The service has been designed with the aim of giving citizens safer, simpler and faster access to government services.
+
+When a citizen uses UK Verify to access a government service, they choose from a list of companies certified to verify their identity. Each certified company has different ways of verifying a citizen's identity. Service providers can be assured they’re providing their service to the right individual or business after matching an assured identity to their own records.
+
+UK Verify is designed to be safe for citizens because information is not stored centrally, and there’s no unnecessary sharing of information. The company a citizen chooses doesn’t know which service they're trying to access, and the government department doesn’t know which company the citizen chose.
+
+UK Verify is designed to support different 'levels of assurance' – the degree of confidence the service provider requires that a user is who they say they are. The levels are:
+
+- **level 1**: the service needs to know that it is the same user returning to the service but does not need to know who that user is;
+- **level 2**: the service needs to know on the balance of probabilities who the user is and that that they are a real person;
+- **level 3**: the service needs to know beyond reasonable doubt who the user is and that that they are a real person;
+- **level 4**: as for level 3, but with a biometric profile captured at the point of registration. This level is not within the scope of the current stage in the UK Verify programme.
+
+More information:
+
+- [HMG's introduction to UK Verify](https://www.gov.uk/government/publications/introducing-govuk-verify/introducing-govuk-verify);
+- [Detailed guidance on the use of UK Verify](https://www.gov.uk/service-manual/identity-assurance);
+- [GDS on Identity Assurance](https://gds.blog.gov.uk/2014/01/23/what-is-identity-assurance/).
 
 
 ## Ongoing activities
