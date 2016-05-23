@@ -1,5 +1,6 @@
 # Solution Building Blocks: Public Sector Capabilities
 
+<!--TOC max3-->
 
 ## Purpose
 
@@ -8,19 +9,15 @@ The purpose of this document is to list the exisiting capabilities that are curr
 We will also signpost ongoing activities that are focused on enhancing or extending the provision of these foundational capabilities.
 
 
-## Contents
-
-<!--TOC max3-->
-
-
 ## Revision History
 
 | Version | Issued     | Comments
 | -       | -          | -
-|     0.1 | 22-04-2106 | Initial Draft
+|     0.1 | 22-04-2106 | Initial draft.
+|     0.2 | 23-05-2016 | Added details of Crown Hosting Data Centres.
 
 
-## Review
+## Review Schedule
 
 | -                  | -
 | *Review frequency* | 6 months
@@ -112,6 +109,8 @@ The device lab has been created in order to support Scottish public sector organ
 
 Testing should be agreed and scheduled with the DPS&BT division. This can be done by emailing the [Device Lab Enquiries](mailto:devicelab@gov.scot) mailbox. The primary contact will be expected to supply details in advance for all persons attending for the duration of testing. If the persons conducting the testing do not have Scottish Government security passes, appropriate arrangements can be made.
 
+A full list of devices is available upon request.
+
 ### The One Scotland Gazetteer
 
 | -                 | -
@@ -180,6 +179,23 @@ More information:
 - [HMG's introduction to UK Verify](https://www.gov.uk/government/publications/introducing-govuk-verify/introducing-govuk-verify);
 - [Detailed guidance on the use of UK Verify](https://www.gov.uk/service-manual/identity-assurance);
 - [GDS on Identity Assurance](https://gds.blog.gov.uk/2014/01/23/what-is-identity-assurance/).
+
+
+### Crown Hosting Data Centres
+
+| -                 | -
+| **Service Class** | Technology
+| **Scope**         | UK public sector
+
+Crown Hosting Data Centres is a joint venture between Her Majesty’s Government and Ark Data Centres. The [Crown Hosting Data Centres framework contract](https://www.digitalmarketplace.service.gov.uk/crown-hosting) provides access to physical co-location data centre space for public sector legacy systems and is on the Digital Marketplace, with services available to call off immediately.
+
+The [Scottish Government Data Hosting and Data Centre Strategy](http://www.gov.scot/Publications/2014/04/1578) vision is that cloud services are the dominant solution for Scottish public sector organisations’ data hosting and storage requirements. However, in circumstances where a cloud or virtualisation approach is not possible, co-location solutions such as Crown Hosting Data Centres may be used in order for organisations to avoid building new data centres. Use of a co-location service should be seen as an interim measure enabling organisations to keep older systems running while they transition to cloud. However, for others, Crown Hosting provides a service where a cloud solution isn’t suitable for security reasons.
+
+Crown Hosting Data Centres provides cost-effective hosting for the whole of the public sector, without tying departments into lengthy and expensive contracts. These services are open to any UK publicly funded, mandated, regulated and previously regulated organisations.
+
+- [Official website for Crown Hosting Data Centres](http://crownhostingdc.co.uk);
+- [GDS blog post announcing the data centres' availability](https://digitalmarketplace.blog.gov.uk/2015/05/26/crown-hosting-on-the-digital-marketplace/);
+- [Gov.uk guidance on the data centres](https://www.gov.uk/guidance/the-crown-hosting-data-centres-framework-on-the-digital-marketplace).
 
 
 ## Ongoing activities
