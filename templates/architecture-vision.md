@@ -1,7 +1,5 @@
 # Architecture Vision: <_project name_>
 
-<!-- This template is based on the corresponding gov.uk content format. More details can be found at https://www.gov.uk/guidance/content-design/content-types#terms-of-reference -->
-
 This is the architecture vision for the <_project name_> project.
 
 The purpose of the architecture vision is to provide a summary of the architectural change that will be undertaken and to explain how this target architecture meets the needs of users, delivering the stated benefits.
@@ -42,8 +40,12 @@ The purpose of the architecture vision is to provide a summary of the architectu
 
 <_Briefly describe the problem to be addressed, as currently understood._>
 
+<!--
+Constraints?
+-->
 
-## Project objectives
+
+## Project Objectives
 
 <_Briefly describe the objectives of the project and the benefits to be delivered. Signpost the underpinning business case._>
 
@@ -51,6 +53,11 @@ The purpose of the architecture vision is to provide a summary of the architectu
 ## Stakeholder Map
 
 <_Provide a stakeholder map that lists the stakeholders identified, their relationships to the project, and their concerns. Signpost the full stakeholder map._>
+
+
+## Architecture Context
+
+<_Signpost architecure documents that were produced during discovery to describe the archtiecture context, including but not limited to the business context and organisational model. If relevant provide any supporting commentary._>
 
 
 ## Baseline Architecture Description
@@ -78,9 +85,37 @@ The purpose of the architecture vision is to provide a summary of the architectu
 <_Catalogue the benefits that the project aims to deliver and provide a description of how the target architecture will realise the stated benefits._>
 
 
-## Architecture Method
+## Architecture Charter
+
+### Architecture Method
 
 <_Provide a brief description of the architecture method that will be used. Explain how this method will be integrated with the overall project / programme delivery method._>
+
+### Architecture Repository
+
+<_Describe how architectural deliverables will managed including specifying the system of record and approach to version management. Signpost related architecture repositories as well as other related repositories (e.g. requirements, source code, etc.)._>
+
+### Processes
+
+<_Describe how architecture activity will be intergrated with the overall delivery approach, including the following processes:
+
+- Risk management;
+- Stakeholder management;
+- Benefits management;
+- Change management;
+- Requirements management._>
+
+### Metamodel
+
+<_Describe the architecture metamodel to be used._>
+
+### Tools
+
+<_Describe the tools that will be used to manage the architecture._>
+
+### Governance
+
+<_Describe the arrangements in place for architecture governance._>
 
 
 ## Appendices
