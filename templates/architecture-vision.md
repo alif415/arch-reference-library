@@ -12,9 +12,9 @@ The purpose of the architecture vision is to provide a summary of the architectu
 
 ## Revision History
 
-| Version | Issued     | Comments
-| -       | -          | -
-|     0.1 | dd-MM-yyyy | …
+Version | Issued     | Comments
+------- | ---------- | -
+0.1     | dd-MM-yyyy | …
 
 
 ## Distribution List
