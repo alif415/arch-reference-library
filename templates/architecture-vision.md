@@ -26,7 +26,7 @@ Version | Issued     | Comments
 
 ## Review
 
-| -                  | -
+| ------------------ | -
 | *Review frequency* | ?
 | *Next review due*  | ?
 
