@@ -26,13 +26,9 @@ Version | Issued     | Comments
 
 ## Review
 
-|-------------|--------|
-|**Name:**    | Test   |
-|**Position:**| Test   |
-
-| ------------------ | -
-| *Review frequency* | ?
-| *Next review due*  | ?
+| Review frequency | Next review due
+| ---------------- | ---------------
+| ?                | ?
 
 
 ## Executive Summary
