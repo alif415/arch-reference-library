@@ -20,7 +20,7 @@ Version | Issued     | Comments
 ## Distribution List
 
 | Role | RACI
-| -    | -
+| ---- | ----
 | …    | …
 
 
