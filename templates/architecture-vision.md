@@ -98,11 +98,11 @@ Constraints?
 ### Processes
 
 <_Describe how architecture activity will be intergrated with the overall delivery approach, including the following processes:
-&nbsp;&nbsp;● Risk management;
-&nbsp;&nbsp;● Stakeholder management;
-&nbsp;&nbsp;● Benefits management;
-&nbsp;&nbsp;● Change management;
-&nbsp;&nbsp;● Requirements management._>
+<br>    * Risk management;
+<br>    * Stakeholder management;
+<br>    * Benefits management;
+<br>    * Change management;
+<br>    * Requirements management._>
 
 ### Metamodel
 
