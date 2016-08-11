@@ -26,6 +26,10 @@ Version | Issued     | Comments
 
 ## Review
 
+|-------------|--------|
+|**Name:**    | Test   |
+|**Position:**| Test   |
+
 | ------------------ | -
 | *Review frequency* | ?
 | *Next review due*  | ?
