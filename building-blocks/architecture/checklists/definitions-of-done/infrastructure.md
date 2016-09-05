@@ -1,0 +1,27 @@
+# Definition of Done: Infrastructure
+
+- All tiers pingable in Development
+- Configuration files meet coding standards
+- Configuration peer reviewed and approved
+- Exploratory testing complete (covers system testing)
+- Automated performance tests written and passed
+- No blocking or critical defects outstanding for user story
+- Non blocking or critical defects added to product backlog
+- Automated integration tests written and passed
+- Integration test coverage above agreed level
+- Acceptance Criteria met
+- Appropriate support agreement in place
+- Manifest, configuration, script written / changed
+- Component produces appropriate monitoring events
+- DR Plan reviewed and updated
+- Recoverability tests written and executed
+- Changes to FS backup schema applied
+- Operational processes updated
+- First line support knowledge base (KB) updated
+- Deployed and tested in OAT (covers UAT)
+- Change written and tested in local environment
+- Excluded tests recorded in product backlog
+- Automated compatibility tests pass
+- Change deployed to production
+- Client Side functional tests written and performed
+- No fatal log messages on startup in test environment (?)		

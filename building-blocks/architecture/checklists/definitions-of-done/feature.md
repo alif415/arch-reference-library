@@ -1,0 +1,23 @@
+# Definition of Done: Feature
+
+- Unit tests written & passed
+- Code meets development standards
+- Unit test coverage above required level
+- Static code / quality analysis passed
+- Code peer reviewed and approved
+- Relevant docs produced or updated (incl' sales & marketing)
+- Code committed to configuration mgmt trunk
+- Continuous integration runs successfully
+- Technical debt recorded on backlog
+- Automated build scripts run successfully
+- Deployable artefacts created and stored in Nexus
+- Acceptance criteria met / UAT tests passed
+- Demo'd to PO & signed off
+- Automated quality attribute tests passed
+- Automated integration tests executed and passed
+- Integration test coverage above agreed level
+- Exploratory testing complete
+- No blocking or critical defects outstanding on the product backlog
+- Excluded tests are recorded on backlog
+- Release plan rollback strategy updated
+- Deployed to 'pre-live' environment and smoke tests pass
