@@ -12,14 +12,14 @@ The purpose of this model is to describe the classes of end-user device that a S
 ## Revision History
 
 | Version | Issued     | Comments
-| -       | -          | -
+| ---     | ---        | ---
 |     0.1 | 10-06-2016 | Initial draft created.
 
 
 ## Distribution List
 
 | Role                         | RACI
-| -                            | -
+| ---                          | ---
 | Technical Solutions Lead     | Responsible
 | Head of Digital Architecture | Accountable
 | Technical Director           | Consulted
@@ -28,9 +28,9 @@ The purpose of this model is to describe the classes of end-user device that a S
 
 ## Review
 
-| -                  | -
-| *Review frequency* | 6 months
-| *Next review due*  | 10-12-2016
+| Review frequency | Next review due
+| ---              | ---
+| 6 months         | 10-12-2016
 
 N.B. this model will be reviewed and updated to reflect our evolving understanding of digital public services.
 
