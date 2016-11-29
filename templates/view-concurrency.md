@@ -3,7 +3,7 @@
 
 ## Purpose
 
-The concurrency view describes the concurrency structure of the system and maps functional elements to concurrency units to clearly identify the parts of the system that can execute concurrently and how this is coordinated and controlled.
+> The concurrency view describes the concurrency structure of the system and maps functional elements to concurrency units to clearly identify the parts of the system that can execute concurrently and how this is coordinated and controlled.
 
 
 ## Contents
@@ -14,22 +14,22 @@ The concurrency view describes the concurrency structure of the system and maps 
 ## Revision History
 
 | Version | Issued     | Comments
-| -       | -          | -
+| ---     | ---        | ---
 | …       | dd-MM-yyyy | …
 
 
 ## Distribution List
 
 | Role | RACI
-| -    | -
+| ---  | ---
 | …    | …
 
 
 ## Review
 
-| -                  | -
-| *Review frequency* | ?
-| *Next review due*  | ?
+| Review frequency | Next review due
+| ---              | ---
+| ?                | ?
 
 
 ## System-Level Concurrency Models
