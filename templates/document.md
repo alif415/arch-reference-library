@@ -14,22 +14,22 @@
 ## Revision History
 
 | Version | Issued     | Comments
-| -       | -          | -
-|     0.1 | dd-MM-yyyy | …
+| ---     | ---        | ---
+| 0.1     | dd-MM-yyyy | …
 
 
 ## Distribution List
 
 | Role | RACI
-| -    | -
+| ---  | ---
 | …    | …
 
 
 ## Review
 
-| -                  | -
-| *Review frequency* | ?
-| *Next review due*  | ?
+| Review frequency | Next review due
+| ---              | ---
+| ?                | ?
 
 
 ## Executive Summary
