@@ -15,22 +15,22 @@ The purpose of this set of architecture principles is to provide architects with
 ## Revision History
 
 | Version | Issued     | Comments
-| -       | -          | -
+| ---     | ---        | ---
 |     0.1 | dd-MM-yyyy | …
 
 
 ## Distribution List
 
 | Role | RACI
-| -    | -
+| ---  | ---
 | …    | …
 
 
 ## Review
 
-| -                  | -
-| *Review frequency* | ?
-| *Next review due*  | ?
+| Review frequency | Next review due
+| ---              | ---
+| ?                | ?
 
 
 ## Summary of Principles
@@ -42,11 +42,12 @@ The purpose of this set of architecture principles is to provide architects with
 
 <_Record each of the principles including the name, statement, rationale and implications._>
 
-| - | -
-| Name | <_Name of the principle._>
-| Reference | <_Unique reference for the principle._>
-| Statement | <_Clearly explain the principle in its simplest form._>
-| Rationale | <_Explain the underlying reasoning for this principle and the benefits it is expected to deliver._>
+|              | |
+| ---          | ---
+| Name         | <_Name of the principle._>
+| Reference    | <_Unique reference for the principle._>
+| Statement    | <_Clearly explain the principle in its simplest form._>
+| Rationale    | <_Explain the underlying reasoning for this principle and the benefits it is expected to deliver._>
 | Implications | <_Explain the actions that the architect / project team are expected to undertake in order to realise the principle._>
 
 
@@ -54,11 +55,12 @@ The purpose of this set of architecture principles is to provide architects with
 
 <_Record each of the principles including the name, statement, rationale and implications._>
 
-| - | -
-| Name | <_Name of the principle._>
-| Reference | <_Unique reference for the principle._>
-| Statement | <_Clearly explain the principle in its simplest form._>
-| Rationale | <_Explain the underlying reasoning for this principle and the benefits it is expected to deliver._>
+|              | |
+| ---          | ---
+| Name         | <_Name of the principle._>
+| Reference    | <_Unique reference for the principle._>
+| Statement    | <_Clearly explain the principle in its simplest form._>
+| Rationale    | <_Explain the underlying reasoning for this principle and the benefits it is expected to deliver._>
 | Implications | <_Explain the actions that the architect / project team are expected to undertake in order to realise the principle._>
 
 
@@ -66,11 +68,12 @@ The purpose of this set of architecture principles is to provide architects with
 
 <_Record each of the principles including the name, statement, rationale and implications._>
 
-| - | -
-| Name | <_Name of the principle._>
-| Reference | <_Unique reference for the principle._>
-| Statement | <_Clearly explain the principle in its simplest form._>
-| Rationale | <_Explain the underlying reasoning for this principle and the benefits it is expected to deliver._>
+|              | |
+| ---          | ---
+| Name         | <_Name of the principle._>
+| Reference    | <_Unique reference for the principle._>
+| Statement    | <_Clearly explain the principle in its simplest form._>
+| Rationale    | <_Explain the underlying reasoning for this principle and the benefits it is expected to deliver._>
 | Implications | <_Explain the actions that the architect / project team are expected to undertake in order to realise the principle._>
 
 
@@ -78,11 +81,12 @@ The purpose of this set of architecture principles is to provide architects with
 
 <_Record each of the principles including the name, statement, rationale and implications._>
 
-| - | -
-| Name | <_Name of the principle._>
-| Reference | <_Unique reference for the principle._>
-| Statement | <_Clearly explain the principle in its simplest form._>
-| Rationale | <_Explain the underlying reasoning for this principle and the benefits it is expected to deliver._>
+|              | |
+| ---          | ---
+| Name         | <_Name of the principle._>
+| Reference    | <_Unique reference for the principle._>
+| Statement    | <_Clearly explain the principle in its simplest form._>
+| Rationale    | <_Explain the underlying reasoning for this principle and the benefits it is expected to deliver._>
 | Implications | <_Explain the actions that the architect / project team are expected to undertake in order to realise the principle._>
 
 

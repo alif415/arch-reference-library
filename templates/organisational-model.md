@@ -10,22 +10,22 @@ Architecture activity is not undertaken in isolation. For an architecture practi
 ## Revision History
 
 | Version | Issued     | Comments
-| -       | -          | -
+| ---     | ---        | ---
 |     0.1 | dd-MM-yyyy | …
 
 
 ## Distribution List
 
 | Role | RACI
-| -    | -
+| ---  | ---
 | …    | …
 
 
 ## Review
 
-| -                  | -
-| *Review frequency* | ?
-| *Next review due*  | ?
+| Review frequency | Next review due
+| ---              | ---
+| ?                | ?
 
 
 ## Executive Summary
@@ -59,9 +59,9 @@ Architecture activity is not undertaken in isolation. For an architecture practi
 
 <_Describe the roles and responsibilites of the key stakeholders in the architecture practice and provide any relevant commentary._>
 
-| Role                         | RACI | Comments |
-| -                            | -    | -        |
-| …                            | …    | …        |
+| Role                         | RACI | Comments
+| ---                          | ---  | ---
+| …                            | …    | …
 
 
 ## Related Management Frameworks

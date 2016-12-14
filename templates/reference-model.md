@@ -16,14 +16,14 @@ An architecture reference model is an abstract framework or domain-specific onto
 ## Revision History
 
 | Version | Issued     | Comments
-| -       | -          | -
+| ---     | ---        | ---
 |     0.1 | dd-MM-yyyy | …
 
 
 ## Distribution List
 
 | Role | RACI
-| -    | -
+| ---  | ---
 | …    | …
 
 <_In particular, be sure to clearly specify the owner ('Accountable') of the reference model._>
@@ -31,9 +31,9 @@ An architecture reference model is an abstract framework or domain-specific onto
 
 ## Review
 
-| -                  | -
-| *Review frequency* | ?
-| *Next review due*  | ?
+| Review frequency | Next review due
+| ---              | ---
+| ?                | ?
 
 
 ## Executive Summary
