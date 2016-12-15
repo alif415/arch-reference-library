@@ -12,23 +12,24 @@ We will also signpost ongoing activities that are focused on enhancing or extend
 ## Revision History
 
 | Version | Issued     | Comments
-| -       | -          | -
+| ---     | ---        | ---
 |     0.1 | 22-04-2106 | Initial draft.
 |     0.2 | 23-05-2016 | Added details of Crown Hosting Data Centres.
 
 
 ## Review Schedule
 
-| -                  | -
-| *Review frequency* | 6 months
-| *Next review due*  | 22-10-2016
+| Review frequency | Next review due
+| ---              | ---
+| 6 months         | 22-10-2016
 
 
 ## Catalogue
 
 ### SWAN
 
-| -                 | -
+| | |
+| ---               | ---
 | **Service Class** | Technology
 | **Scope**         | Scottish public sector
 
@@ -44,7 +45,8 @@ More information:
 
 ### mygov.scot
 
-| -                 | -
+| | |
+| ---               | ---
 | **Service Class** | Application
 | **Scope**         | Scottish public sector
 
@@ -72,7 +74,8 @@ Public sector organisations can access the mygov.scot service by emailing the [c
 
 ### myaccount
 
-| -                 | -
+| | |
+| ---               | ---
 | **Service Class** | Application
 | **Scope**         | Scottish public sector
 
@@ -91,7 +94,8 @@ More details:
 
 ### Public Sector Colocation Register
 
-| -                 | -
+| | |
+| ---               | ---
 | **Service Class** | Technology
 | **Scope**         | Scottish public sector
 
@@ -99,7 +103,8 @@ The Scottish Government provides a [colocation register](http://www.gov.scot/Top
 
 ### Device Lab
 
-| -                 | -
+| | |
+| ---               | ---
 | **Service Class** | Technology
 | **Scope**         | Scottish public sector
 
@@ -113,7 +118,8 @@ A full list of devices is available upon request.
 
 ### The One Scotland Gazetteer
 
-| -                 | -
+| | |
+| ---               | ---
 | **Service Class** | Data
 | **Scope**         | Scottish public sector
 
@@ -137,7 +143,8 @@ More information:
 
 The [PSN](https://www.gov.uk/government/groups/public-services-network) is the UK government’s high-performance network, which helps public sector organisations work together, reduce duplication and share resources.
 
-| -                 | -
+| | |
+| ---               | ---
 | **Service Class** | Technology
 | **Scope**         | UK public sector
 
@@ -157,7 +164,8 @@ More information:
 
 ### UK Verify
 
-| -                 | -
+| | |
+| ---               | ---
 | **Service Class** | Application
 | **Scope**         | UK public sector
 
@@ -183,7 +191,8 @@ More information:
 
 ### Crown Hosting Data Centres
 
-| -                 | -
+| | |
+| ---               | ---
 | **Service Class** | Technology
 | **Scope**         | UK public sector
 

@@ -13,15 +13,21 @@ This catalogue lists open source applications and libraries created by the UK pu
 ## Revision History
 
 | Version | Issued     | Comments
-| -       | -          | -
+| ---     | ---        | ---
 | 0.1     | 06-08-2015 | Created and initial entries populated.
 | 0.2     | 22-04-2016 | Added an entry for the Ginsberg project.
 
 
+## Review Schedule
+
+| Review frequency | Next review due
+| ---              | ---
+| 6 months         | 22-10-2016
+
 ## Catalogue of Applications & Libraries
 
 | Project                                                                              | Organisation           | Type        | Licence                           | Language   | Description
-| -                                                                                    | -                      | -           | -                                 | -          | -
+| ---                                                                                  | ---                    | ---         | ---                               | ---        | ---
 | [config-weaver](https://github.com/scottishgovernment/config-weaver)                 | Scottish Government    | Library     | MIT                               | JavaScript | A simple module to support overriding config files using environment variables.
 | [geo-search](https://github.com/scottishgovernment/geo-search)                       | Scottish Government    | Application | MIT                               | Java       | A REST service to provide local authority information given a Scottish postcode.
 | [os-codepoint](https://github.com/scottishgovernment/os-codepoint)                   | Scottish Government    | Library     | Ordnance Survey Data Licence, MIT | Java       | A Debian package containing an extract of the Ordnance Survey Code Point data set.
