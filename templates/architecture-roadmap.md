@@ -78,6 +78,22 @@ ID  | Architecture Domain | Gap | Potential Solutions | Dependencies
 | ** Project …** |                   | Solution d, …     |
 
 
+## Risks, Issues, Assumptions & Dependencies
+
+<_Record the significant factors that may impact the realisation of the architecture on the schedule described by this roadmap._>
+
+| Factor | Type      | Description | Implications
+| ---    | ---       | ---         | ---
+| …      | {R/A/I/D} | …           | …
+
+_R: risk; A: assumption; I: issue; D: dependency._
+
+
+## Implementation Recommendations
+
+<_Provide a concise description of the most appropriate approach by which the architecture can be realised, based on the analysis provided in previous sections giving the reasoning that underpins this recommendation._>
+
+
 ## Appendices
 
 <_Provide any relevant appendices._>
@@ -86,9 +102,3 @@ ID  | Architecture Domain | Gap | Potential Solutions | Dependencies
 ## References
 
 <_Provide any relevant references._>
-
-- TOGAF §13;
-- TOGAF §14;
-- TOGAF §27;
-- TOGAF §38;
-- TOGAF §36.2.7.
