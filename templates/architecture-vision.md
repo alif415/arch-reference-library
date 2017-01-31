@@ -40,10 +40,6 @@ Version | Issued     | Comments
 
 <_Briefly describe the problem to be addressed, as currently understood._>
 
-<!--
-Constraints?
--->
-
 
 ## Project Objectives
 
@@ -57,7 +53,13 @@ Constraints?
 
 ## Architecture Context
 
-<_Signpost architecure documents that were produced during discovery to describe the archtiecture context, including but not limited to the business context and organisational model. If relevant provide any supporting commentary._>
+<_Signpost architecure documents that were produced during discovery to describe the architecture context. If relevant provide any supporting commentary. The architecture context typically includes one or more of the following:
+<br>    * the business context;
+<br>    * an organisational model
+<br>    * architecture principles;
+<br>    * architecture constraints;
+<br>    * architecture drivers;
+<br>    * architecture and solution building blocks._>
 
 
 ## Baseline Architecture Description
@@ -83,38 +85,6 @@ Constraints?
 ## Benefits Map
 
 <_Catalogue the benefits that the project aims to deliver and provide a description of how the target architecture will realise the stated benefits._>
-
-
-## Architecture Charter
-
-### Architecture Method
-
-<_Provide a brief description of the architecture method that will be used. Explain how this method will be integrated with the overall project / programme delivery method._>
-
-### Architecture Repository
-
-<_Describe how architectural deliverables will managed including specifying the system of record and approach to version management. Signpost related architecture repositories as well as other related repositories (e.g. requirements, source code, etc.)._>
-
-### Processes
-
-<_Describe how architecture activity will be intergrated with the overall delivery approach, including the following processes:
-<br>    * Risk management;
-<br>    * Stakeholder management;
-<br>    * Benefits management;
-<br>    * Change management;
-<br>    * Requirements management._>
-
-### Metamodel
-
-<_Describe the architecture metamodel to be used._>
-
-### Tools
-
-<_Describe the tools that will be used to manage the architecture._>
-
-### Governance
-
-<_Describe the arrangements in place for architecture governance._>
 
 
 ## Appendices
