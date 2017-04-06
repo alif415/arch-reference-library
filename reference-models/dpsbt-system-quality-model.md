@@ -202,7 +202,7 @@ Security
 
 ## Graphic
 
-![The System Quality Model Graphic](dpsbt-system-quality-model-graphic.svg)
+![The System Quality Model Graphic](https://scottishgovernment.github.io/arch-reference-library/reference-models/dpsbt-system-quality-model-graphic.svg)
 
 
 ## Discussion
