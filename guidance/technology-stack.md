@@ -1,4 +1,4 @@
-#Technology Stack
+# Technology Stack
 
 The technology stack will be dependent on the solution design and selection but there are some over-arching principles that will apply to the selection of a technology. The UK Government Digital Service (GDS) have published guidance on Technology Architecture and Standards and the full version can be found at
 
